@@ -1,4 +1,4 @@
-#Genetics of Bacteria
+# Genetics of Bacteria
 
 ### Terms 
 * Genotype: sequence of nucleotides in DNA
@@ -26,7 +26,7 @@ Horizonatal Gene Transfer
     -   In E. coli **F plasmid encode proteins required for conjugation including sex pilus** 
         -   Donor F+ can transfer DNA to F-i
     
-###Transposons
+### Transposons
     *Jumping DNA*
     small segments of DNA that move from one region of a DNA molecule to another
     can inactivate genes
