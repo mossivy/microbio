@@ -1,0 +1,21 @@
+vimwiki
+nerdtree
+fzf
+jp2a - jpeg to ascii
+asciiflow - ascii flowcharts
+Test/Assignment Tracker + Goal Generator
+    Python script that reads this and generates a study plan based on days left.
+    The script can output goals for each day, prioritizing topics closer to exams.
+    Optionally, integrate with calendar CLI tools like calcurse... google calendar
+Active recall & spaced repition
+    start with flashcard-cli
+    evententually make a python script that integrates llm's
+
+goal generator script can randomize or rotate topics daily to ensure varied study.
+Use a config file where you list topics, and the script generates daily mixed study plans
+
+MML/AI Experimental
+    generate practice questions and interact with my answers
+    summarize sections
+    generate mnemonics or memory aids
+

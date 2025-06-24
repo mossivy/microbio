@@ -1,0 +1,98 @@
+course: BIOL2260-TR Summer2025
+assignments:
+  - name: Quiz 1
+    date: '2025-06-12'
+    topics:
+      - Chapter 1: History of Microbiology
+      - Chapter 3: Cell Structure and Function
+  - name: Quiz 2
+    date: '2025-06-17'
+    topics:
+      - Chapter 4: Dynamics of Microbial Growth
+      - Chapter 5: Microbial Control
+  - name: Exam 1
+    date: '2025-06-24'
+    location: PSC-255-in person
+    topics:
+      - Chapter 1: History of Microbiology
+      - Chapter 2: Chemistry
+      - Chapter 3: Cell Structure and Function
+      - Chapter 4: Dynamics of Microbial Growth
+      - Chapter 5: Microbial Control
+  - name: Quiz 3
+    date: '2025-06-26'
+    topics:
+      - Chapter 7: The Blueprint of Life, from DNA to Protein
+      - Chapter 8: Bacterial Genetics-Horizontal Gene Transfer
+      - Chapter 10: Identifying and Classifying Microorganisms
+  - name: Quiz 4
+    date: '2025-07-01'
+    topics:
+      - Chapter 12: The Eukaryotic Members of the Microbial World
+  - name: Quiz 5
+    date: '2025-07-01'
+    topics:
+      - Chapter 13: Viruses
+  - name: Exam 2
+    date: '2025-07-03'
+    location: PSC-255-in person
+    topics:
+      - Chapter 7: The Blueprint of Life, from DNA to Protein
+      - Chapter 8: Bacterial Genetics-Horizontal Gene Transfer
+      - Chapter 10: Identifying and Classifying Microorganisms
+      - Chapter 12: The Eukaryotic Members of the Microbial World
+      - Chapter 13: Viruses
+  - name: Quiz 6
+    date: '2025-07-03'
+    topics:
+      - Chapter 14: Innate immune system
+      - Chapter 15: The adaptive immunity
+      - Chapter 17: Applications of Immune Responses
+      - Chapter 18: Immune Disorders and Testing
+  - name: Quiz 7
+    date: '2025-07-08'
+    topics:
+      - Chapter 16: Human Microbe Interactions
+      - Chapter 19: Epidemiology
+  - name: Quiz 8
+    date: '2025-07-10'
+    topics:
+      - Chapter 20: Antimicrobial Medications
+  - name: Exam 3
+    date: '2025-07-15'
+    location: PSC-255-in person
+    topics:
+      - Chapter 14: Innate immune system
+      - Chapter 15: The adaptive immunity
+      - Chapter 16: Human Microbe Interactions
+      - Chapter 17: Applications of Immune Responses
+      - Chapter 18: Immune Disorders and Testing
+      - Chapter 19: Epidemiology
+      - Chapter 20: Antimicrobial Medications
+  - name: Quiz 9
+    date: '2025-07-17'
+    topics:
+      - Chapter 21: Respiratory System Infections
+      - Chapter 22: Skin Infections
+      - Chapter 23: Wound infections
+  - name: Quiz 10
+    date: '2025-07-24'
+    topics:
+      - Chapter 24: Digestive System Infections
+      - Chapter 25: Blood and Lymphatic Infections
+  - name: Quiz 11
+    date: '2025-07-24'
+    topics:
+      - Chapter 26: Nervous System Infections
+      - Chapter 27: Genitourinary Tract Infections
+  - name: Exam 4
+    date: '2025-07-29'
+    location: PSC-255-in person
+    topics:
+      - Chapter 21: Respiratory System Infections
+      - Chapter 22: Skin Infections
+      - Chapter 23: Wound infections
+      - Chapter 24: Digestive System Infections
+      - Chapter 25: Blood and Lymphatic Infections
+      - Chapter 26: Nervous System Infections
+      - Chapter 27: Genitourinary Tract Infections
