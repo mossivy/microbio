@@ -19,3 +19,13 @@ MML/AI Experimental
     summarize sections
     generate mnemonics or memory aids
 
+
+#TODo
+turn this to where it pulls up the notes and then autoremoves
+
+Mark sections as reviewed using:
+  python note_planner.py --mark-reviewed "part 1.wiki" "Terms"
+  python note_planner.py --mark-reviewed "part 1.wiki" "Terms"
+  python note_planner.py --mark-reviewed "part 1.wiki" "= Culture Characteristics"
+  python note_planner.py --mark-reviewed "part 1.wiki" "= Transposons"
+  python note_planner.py --mark-reviewed "part 1.wiki" "= Horizontal Gene Transfer"

@@ -4,9 +4,6 @@ A personalized, terminal-based study environment to conquer BIOL2260.
 
 
 ## Nextcloud linkage
-ln -s ~/Dev/microbio/notes ~/Nextcloud/vimwiki/microbio
----
-
 ---
 
 ## Core Tools
@@ -23,19 +20,27 @@ This suite leverages powerful command-line tools:
 
 ---
 
-## Custom Scripts & Aliases
+# SCRIPT USAGE
 
-To make using this suite seamless, the following aliases are defined in `~/.bash_aliases` or `~/.zshrc`.
+#Glossary Setup add to .vimrc so :UpdateGlossary can be run
+command! UpdateGlossary :!bash /PATH/scripts/update_glossary.sh
 
-| Command                                           | Description                                                               |
-| ------------------------------------------------- | ------------------------------------------------------------------------- |
-| `python3 scripts/goal_generator.py`               | Displays today's study priorities based on the `plans/microbiology.yaml`. |
-| `python3 scripts/goal_generator.py --wiki`        | Generates a `vimwiki` checklist for today's plan and opens it.            |
-| `flashcard-cli $(find flashcards -type f \| fzf)` | Opens a flashcard deck selector using `fzf` to start a session.           |
-| `grep -r "" notes/ \| fzf`                        | Fuzzy search for any text within your `notes` directory.                  |
-| `python3 scripts/summarize.py`                    | (Future) Summarize a text file using an LLM.                              |
-| `python3 scripts/practice_questions.py`           | (Future) Generate practice questions on a topic.                          |
+#For autolinking to glossary add this to .vimrc and then reload
+source ~/PATH/config/vim/link_to_topic.vim
+usage: <leader>lt
+#In Vim:    :source ~/.vimrc
 
+# Generate today's plan (assignments + reviews)
+python study_suite.py --plan-file plans/microbiology.yaml
+
+# Generate in vimwiki format
+python study_suite.py --plan-file plans/microbiology.yaml --wiki
+
+# Mark something as reviewed
+python study_suite.py --mark-reviewed identification_classification.wiki "Culture Characteristics"
+
+# Check review status
+python study_suite.py --status
 ---
 
 ## Daily Workflow Example

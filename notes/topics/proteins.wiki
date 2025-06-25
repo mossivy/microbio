@@ -1,0 +1,20 @@
+= Proteins =
+
+Proteins are large biomolecules composed of amino acids.
+
+== Structure ==
+- Primary
+- Secondary
+- Tertiary
+- Quaternary
+
+== Functions ==
+- Enzymatic
+- Structural
+- Signaling
+
+== See also ==  
+[[../chapters/ch8/part 1|Bacterial Genetics]]
+[[enzymes]]
+[[peptide_bond]]
+

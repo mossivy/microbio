@@ -1,0 +1,15 @@
+= Peptide Bond =
+
+A peptide bond is a covalent bond formed between the amino group of one amino acid and the carboxyl group of another, releasing a molecule of water (condensation reaction).
+
+It links amino acids together in proteins, forming the protein’s backbone.
+
+== Key points ==
+- Also called an amide bond.
+- Has partial double-bond character, making it planar and rigid.
+- Formation occurs during protein synthesis (translation).
+
+== See also ==
+- [[topics/proteins|Proteins]]
+- [[../glossary|Glossary]]
+

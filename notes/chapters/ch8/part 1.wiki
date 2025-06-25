@@ -23,7 +23,7 @@ DNA from one bacteria to another:
 
 == Conjugation ==
   - Plasmids: contains F plasmid → F+; does not contain → F-  
-  - In *E. coli*, **F plasmid encodes proteins required for conjugation including sex pilus**  
+  - In *E. coli*, **F [[plasmid]] encodes [[proteins]] required for conjugation including sex pilus**  
     - Donor F+ can transfer DNA to F-
 
 === Transposons ===

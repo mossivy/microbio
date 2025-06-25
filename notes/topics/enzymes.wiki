@@ -1,0 +1,32 @@
+= Enzymes =
+
+Enzymes are biological catalysts that speed up chemical reactions in living organisms without being consumed in the process.
+
+== Structure and Function ==
+- Most enzymes are proteins.
+- They have an active site where substrates bind.
+- Enzyme activity depends on factors like temperature, pH, and substrate concentration.
+
+== Mechanism ==
+- Lower activation energy of reactions.
+- Bind substrates to form enzyme-substrate complex.
+- Convert substrates into products and release them.
+
+== Types of Enzymes ==
+- **Oxidoreductases:** catalyze oxidation-reduction reactions.
+- **Transferases:** transfer functional groups between molecules.
+- **Hydrolases:** catalyze hydrolysis reactions.
+- **Lyases:** add or remove groups to form double bonds.
+- **Isomerases:** catalyze isomerization changes.
+- **Ligases:** join two molecules using ATP.
+
+== Importance ==
+- Vital for metabolism.
+- Used in biotechnology and medicine (e.g., enzyme replacement therapy).
+
+== See also ==
+- [[proteins|Proteins]]
+- [[glossary#wikipedia|Glossary]]
+- [[../chapters/ch8/index|Chapter 8]]
+
+

@@ -1,5 +1,7 @@
 = Microbiology Notes = 
 
+[[glossary|Glossary]]
+
 [[chapters/ch3/index|Chapter 3: Microscopy and Cell Structure]]
 [[chapters/ch4/index|Chapter 4: Dynamics of Microbial Growth]]
 [[chapters/ch5/index|Chapter 5: Microbial Control]]
