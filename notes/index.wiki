@@ -1,4 +1,4 @@
-# Microbiology Notes
+= Microbiology Notes = 
 
 [[chapters/ch3/index|Chapter 3: Microscopy and Cell Structure]]
 [[chapters/ch4/index|Chapter 4: Dynamics of Microbial Growth]]

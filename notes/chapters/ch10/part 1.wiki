@@ -1,0 +1,66 @@
+= Identification & Classification =
+
+== Terms ==
+    * Genus
+    * Species
+    * Strain
+    * David Bergey
+    * Streptococcus
+    * Neisseria gonorrhoeae
+    * Serratia marcescens
+    * Pseudomonas aeruginosa
+    * Histones
+
+1. Domain  
+2. Kingdom  
+3. Phylum  
+4. Class  
+5. Order  
+6. Family  
+7. Genus  
+8. Species  
+9. Subspecies  
+10. Strain  
+
+*Genus*  
+  related species  
+
+*Species*  
+  group of strains  
+
+*Strain*  
+  population in species that have distinct genes/phenotype  
+
+Bacteria *don't* have histones but Archaea and Eukarya do
+
+== David Bergey ==
+- description for all 'known species'  
+- classification from *Phenotype*  
+- later changed to *Genotype*  
+
+== Microscope ID ==
+- determine size, shape, and stain colors  
+- Can sometimes determine pathogen from context + Microscope ID:  
+  - *Streptococcus* in respiratory system if clusters of circles G+  
+  - *Neisseria gonorrhoeae* if genitals, diplococcus G-  
+
+== Culture Characteristics ==
+- Pigment:  
+  - *Serratia marcescens* colonies red at 22°C but white at 35°C  
+  - *Pseudomonas aeruginosa* produces green pigment & fruity odor  
+  - *E. coli* UTI ferments lactose, pink colonies on MacConkey agar  
+- Differential Media aids in Identification:  
+  - *Streptococcus pylogenes* (strep throat) yields β-hemolysis on blood agar  
+
+== Isolation & Identification ==
+- streak a culture plate  
+- take a sample, streak on agar, incubate at 37°C for >24 hrs  
+
+= Biochemical Tests =
+- Metabolic capabilities  
+- Catalase test: positive if O₂ bubbles after H₂O₂ is added to colony  
+- Many tests use pH indicators  
+
+= Antibiotic Resistance =
+- Antibiograms reveal differences in susceptibility to antimicrobial medicines
+

@@ -1,0 +1,35 @@
+= Genetics of Bacteria =
+
+== Terms ==
+  * Genotype: sequence of nucleotides in DNA
+  * Phenotype: observed characteristics of cell
+  * Plasmid: DNA that replicates independently of chromosome
+  * Transduction
+  * Conjugation
+  * Transformation
+
+== Gene Changes in Bacteria ==
+
+=== Horizontal Gene Transfer ===
+DNA from one bacteria to another:  
+  1. Transformation: bacteria die and DNA absorbed by living bacteria  
+  2. Conjugation: plasmid transfers to other bacteria  
+  3. Transduction: DNA is transferred by virus
+
+== Transduction ==
+  - DNA transferred between bacteria via bacteriophage  
+  - **Lysogenic** cycle: virus DNA incorporated into the bacteria's own DNA  
+  - **Lytic** cycle: virus created inside bacteria and then bursts out
+
+== Conjugation ==
+  - Plasmids: contains F plasmid → F+; does not contain → F-  
+  - In *E. coli*, **F plasmid encodes proteins required for conjugation including sex pilus**  
+    - Donor F+ can transfer DNA to F-
+
+=== Transposons ===
+Jumping DNA:  
+  - Small segments of DNA that move from one region of a DNA molecule to another  
+  - Can inactivate genes  
+  - Causes mutations  
+  - Can be transferred in plasmids
+
