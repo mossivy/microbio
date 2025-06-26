@@ -12,6 +12,9 @@
 == H ==
 * [[topics/Histones|Histones]] :: Tags: Chapter 10, Eukaryotes
 
+== L ==
+* [[topics/lysogenic cycle|Lysogenic cycle]] :: Tags: Ch. 8
+
 == P ==
 * [[topics/peptide bond|Peptide bond]] :: Tags: proteins, biochemistry, amino-acids, structure, Chapter 3
 * [[topics/plasmid|Plasmid]] :: A plasmid is a small, circular DNA molecule that exists independently of the bacterial chromosome.
@@ -20,5 +23,5 @@
 == T ==
 * [[topics/Taxonomy|Taxonomy]] :: Tags: Chapter 10
 * [[topics/transduction|Transduction]] :: - DNA transferred between bacteria via bacteriophage  
-* [[topics/transposon|Transposon]] :: Jumping DNA  
+* [[topics/transposon|Transposon]] :: Jumping DNA:  
 

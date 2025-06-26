@@ -1,4 +1,9 @@
 = Lysogenic Cycle =
 
+The lysogenic cycle is a method of viral reproduction where a bacteriophage integrates its DNA into the host bacterium's genome, 
+forming a dormant state called a prophage. This allows the virus to replicate along with the host cell without immediately destroying it
 
+== See also ==
+- [[lytic cycle]] 
+   
 Tags: Ch. 8

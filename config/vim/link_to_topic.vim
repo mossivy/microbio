@@ -1,3 +1,8 @@
+xnoremap <leader>[ s[[<C-r>"]]<Esc>
+xnoremap <leader>lt :<C-u>call LinkToTopic(GetVisualSelection())<CR>
+nnoremap <leader>lt :call LinkToTopic()<CR>
+xnoremap <leader>et :<C-u>call ExtractToTopic()<CR>
+
 function! LinkToTopic(...)
   " Check if we got text as an argument (from visual mode)
   if a:0 > 0 && !empty(a:1)
@@ -135,9 +140,6 @@ function! GetVisualSelection()
   return l:selection
 endfunction
 
-xnoremap <leader>lt :<C-u>call LinkToTopic(GetVisualSelection())<CR>
-nnoremap <leader>lt :call LinkToTopic()<CR>
-
 function! ExtractToTopic()
   " Yank visual selection into 'z'
   normal! gv"zy
@@ -203,4 +205,3 @@ function! ExtractToTopic()
   silent! execute "UpdateGlossary"
   echo "📚 Glossary updated"
 endfunction
-xnoremap <leader>et :<C-u>call ExtractToTopic()<CR>

@@ -1,0 +1,12 @@
+= Lytic Cycle =
+
+The lytic cycle is often separated into six stages: attachment, penetration, transcription, biosynthesis, maturation, and lysis.
+    Attachment – the phage attaches itself to the surface of the host cell in order to inject its DNA into the cell
+    Penetration – the phage injects its DNA into the host cell by penetrating through the cell membrane
+    Transcription – the host cell's DNA is degraded and the cell's metabolism is directed to initiate phage biosynthesis
+    Biosynthesis – the phage DNA replicates inside the cell, synthesizing new phage DNA and proteins
+    Maturation – the replicated material assembles into fully formed viral phages (each made up of a head, a tail and tail fibers)
+    Lysis - cell wall or membrane ruptures, disintegrating it and releasing the virus in the process
+
+== See also ==
+- [[lysogenic cycle]]
