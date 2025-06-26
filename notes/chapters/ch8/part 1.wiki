@@ -3,7 +3,7 @@
 == Terms ==
   * Genotype: sequence of nucleotides in DNA
   * Phenotype: observed characteristics of cell
-  * Plasmid: DNA that replicates independently of chromosome
+  * [[../../topics/plasmid|Plasmid]]: DNA that replicates independently of chromosome
   * [[../../topics/transduction|Transduction]]
   * [[../../topics/conjugation|Conjugation]]
   * Transformation
@@ -19,8 +19,8 @@ DNA from one bacteria to another:
 
 == Transduction ==
   - DNA transferred between bacteria via bacteriophage  
-  - **Lysogenic** cycle: virus DNA incorporated into the bacteria's own DNA  
-  - **Lytic** cycle: virus created inside bacteria and then bursts out
+  - [[../../topics/lysogenic cycle|Lysogenic cycle]]: virus DNA incorporated into the bacteria's own DNA  
+  - Lytic cycle: virus created inside bacteria and then bursts out
 
 == Conjugation ==
   - Plasmids: contains F plasmid → F+; does not contain → F-  

@@ -11,3 +11,4 @@ A plasmid is a small, circular DNA molecule that exists independently of the bac
 - [[../topics/dna|DNA]]
 - [[..//topics/antibiotic_resistance|Antibiotic Resistance]]
 
+Tags: Ch. 8
