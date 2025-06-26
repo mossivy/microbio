@@ -1,0 +1,13 @@
+= Plasmid =
+
+A plasmid is a small, circular DNA molecule that exists independently of the bacterial chromosome.
+
+== Key Features ==
+- Capable of autonomous replication
+- Often carries beneficial genes (e.g., antibiotic resistance)
+- Commonly used in genetic engineering as vectors
+
+== See also ==
+- [[../topics/dna|DNA]]
+- [[..//topics/antibiotic_resistance|Antibiotic Resistance]]
+

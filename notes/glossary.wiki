@@ -4,6 +4,7 @@
 * [[topics/enzymes|Enzymes]] :: Enzymes are biological catalysts that speed up chemical reactions in living organisms without being consumed in the process.
 
 == P ==
-* [[topics/peptide_bond|Peptide_bond]] :: A peptide bond is a covalent bond formed between the amino group of one amino acid and the carboxyl group of another, releasing a molecule of water (condensation reaction).
+* [[topics/peptide bond|Peptide Bond]] :: A peptide bond is a covalent bond formed between the amino group of one amino acid and the carboxyl group of another, releasing a molecule of water (condensation reaction).
+* [[topics/plasmid|Plasmid]] :: A plasmid is a small, circular DNA molecule that exists independently of the bacterial chromosome.
 * [[topics/proteins|Proteins]] :: Proteins are large biomolecules composed of amino acids.
 

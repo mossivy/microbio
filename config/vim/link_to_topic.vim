@@ -1,23 +1,24 @@
 function! LinkToTopic()
+  " Get current word under cursor
   let l:term = expand('<cword>')
-  let l:wiki_root = finddir('notes', ';')
-  if empty(l:wiki_root)
-    echohl ErrorMsg | echo "Couldn't find notes/ directory" | echohl None
-    return
-  endif
 
-  " Convert term to lowercase snake_case
-  let l:filename = tolower(substitute(l:term, '\s\+', '_', 'g'))
-  let l:topic_path = l:wiki_root . '/topics/' . l:filename . '.wiki'
+  " Normalize: lowercase, remove 's/plurals/punctuation
+  let l:clean = substitute(tolower(l:term), "'s\\?\\|s$", '', '')
+  let l:clean = substitute(l:clean, '[^a-z0-9_ ]\\+', '', 'g')
+  let l:filename = substitute(l:clean, '\s\+', '_', 'g')
+  let l:display = substitute(l:term, '_', ' ', 'g')
 
-  if filereadable(l:topic_path)
-    " Insert link at cursor position
-    execute 'normal! i[[../topics/' . l:filename . '|' . l:term . ']]'
+  " Determine the path: two levels up from chapter files
+  let l:link = '../../topics/' . l:filename
+  let l:file_check = expand('%:p:h') . '/../../topics/' . l:filename . '.wiki'
+
+  if filereadable(resolve(l:file_check))
+    execute "normal! ciw[[" . l:link . "|" . l:display . "]]"
+    echo "✅ Linked to topic: " . l:filename
   else
-    echohl WarningMsg | echo "No topic file for '" . l:term . "' found." | echohl None
+    echohl WarningMsg | echo "⚠️ Topic not found: " . l:filename . ".wiki" | echohl None
   endif
 endfunction
 
-" Keybinding: Leader + l then t
 nnoremap <leader>lt :call LinkToTopic()<CR>
 

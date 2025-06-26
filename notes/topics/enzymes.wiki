@@ -1,4 +1,6 @@
-= Enzymes =
+% Enzymes 
+
+Tags: biochemistry, catalysis, proteins, metabolism, 
 
 Enzymes are biological catalysts that speed up chemical reactions in living organisms without being consumed in the process.
 
@@ -16,7 +18,7 @@ Enzymes are biological catalysts that speed up chemical reactions in living orga
 - **Oxidoreductases:** catalyze oxidation-reduction reactions.
 - **Transferases:** transfer functional groups between molecules.
 - **Hydrolases:** catalyze hydrolysis reactions.
-- **Lyases:** add or remove groups to form double bonds.
+- **Lyases:** add or remove groups to form double bonds. Ch. 4, Ch. 5
 - **Isomerases:** catalyze isomerization changes.
 - **Ligases:** join two molecules using ATP.
 

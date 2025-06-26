@@ -1,0 +1,40 @@
+# Glossary Term Metadata Configuration
+# This file controls chapter assignments, importance levels, and tags
+# for all glossary terms.
+
+metadata_version: '1.0'
+description: Glossary term metadata configuration
+
+terms:
+
+  # === Chapter 3 Terms ===
+  Peptide Bond:
+    chapter: 3
+    exam_importance: medium
+    study_importance: medium
+    tags: ['proteins', 'biochemistry', 'amino-acids', 'structure', 'Chapter 3']
+    notes: ''
+
+  # === Chapter 4 Terms ===
+  Enzymes:
+    chapter: 4
+    exam_importance: medium
+    study_importance: medium
+    tags: ['biochemistry', 'catalysis', 'proteins', 'metabolism', '']
+    notes: ''
+
+  # === Chapter 8 Terms ===
+  Proteins:
+    chapter: 8
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+
+  # === Unassigned Terms ===
+  Plasmid:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''

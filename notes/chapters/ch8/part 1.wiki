@@ -13,7 +13,7 @@
 === Horizontal Gene Transfer ===
 DNA from one bacteria to another:  
   1. Transformation: bacteria die and DNA absorbed by living bacteria  
-  2. Conjugation: plasmid transfers to other bacteria  
+  2. Conjugation: [[../../topics/plasmid|plasmid]] transfers to other bacteria  
   3. Transduction: DNA is transferred by virus
 
 == Transduction ==
@@ -23,7 +23,7 @@ DNA from one bacteria to another:
 
 == Conjugation ==
   - Plasmids: contains F plasmid → F+; does not contain → F-  
-  - In *E. coli*, **F [[plasmid]] encodes [[proteins]] required for conjugation including sex pilus**  
+  - In *E. coli*, F plasmid encodes proteins required for conjugation including sex pilus
     - Donor F+ can transfer DNA to F-
 
 === Transposons ===
