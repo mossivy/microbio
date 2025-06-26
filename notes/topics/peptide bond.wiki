@@ -1,4 +1,4 @@
-% Peptide Bond
+= Peptide bond =
 
 Tags: proteins, biochemistry, amino-acids, structure, Chapter 3
 
@@ -12,6 +12,6 @@ It links amino acids together in proteins, forming the protein’s backbone.
 - Formation occurs during protein synthesis (translation).
 
 == See also ==
-- [[topics/proteins|Proteins]]
+- [[proteins|Proteins]]
 - [[../glossary|Glossary]]
 

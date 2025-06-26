@@ -1,0 +1,12 @@
+= David Bergey=
+
+Tags: Chapter 10
+
+- description for all 'known species'  
+- classification from *Phenotype*  
+    - shape
+    - stain
+    - metabolic capabilites
+- later changed to *Genotype*  
+
+

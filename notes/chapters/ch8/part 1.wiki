@@ -4,9 +4,10 @@
   * Genotype: sequence of nucleotides in DNA
   * Phenotype: observed characteristics of cell
   * Plasmid: DNA that replicates independently of chromosome
-  * Transduction
-  * Conjugation
+  * [[../../topics/transduction|Transduction]]
+  * [[../../topics/conjugation|Conjugation]]
   * Transformation
+  * [[../../topics/transposon|Transposon]]
 
 == Gene Changes in Bacteria ==
 
@@ -26,7 +27,7 @@ DNA from one bacteria to another:
   - In *E. coli*, F plasmid encodes proteins required for conjugation including sex pilus
     - Donor F+ can transfer DNA to F-
 
-=== Transposons ===
+== Transposon ==
 Jumping DNA:  
   - Small segments of DNA that move from one region of a DNA molecule to another  
   - Can inactivate genes  

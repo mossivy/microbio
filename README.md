@@ -25,12 +25,14 @@ This suite leverages powerful command-line tools:
 #Glossary Setup add to .vimrc so :UpdateGlossary can be run
 command! UpdateGlossary :!bash /PATH/scripts/update_glossary.sh
 
-#For autolinking to glossary add this to .vimrc and then reload
-source ~/PATH/config/vim/link_to_topic.vim
-usage: <leader>lt
 #In Vim:    :source ~/.vimrc
+source ~/PATH/config/vim/link_to_topic.vim
+#For autolinking to glossary add this to .vimrc and then reload
+usage: <leader>lt
+#For selecting == subsection == and creating glossary term
+usage: <leader>et
 
-# Generate today's plan (assignments + reviews)
+# Generate today's plan (assignments + reviews) 
 python study_suite.py --plan-file plans/microbiology.yaml
 
 # Generate in vimwiki format

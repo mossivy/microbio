@@ -1,10 +1,24 @@
 = Glossary =
 
+== C ==
+* [[topics/conjugation|Conjugation]] :: - Plasmids: contains F plasmid → F+; does not contain → F-  
+
+== D ==
+* [[topics/David Bergey|David Bergey]] :: Tags: Chapter 10
+
 == E ==
-* [[topics/enzymes|Enzymes]] :: Enzymes are biological catalysts that speed up chemical reactions in living organisms without being consumed in the process.
+* [[topics/enzymes|Enzymes]] :: Tags: biochemistry, catalysis, proteins, metabolism, 
+
+== H ==
+* [[topics/Histones|Histones]] :: Tags: Chapter 10, Eukaryotes
 
 == P ==
-* [[topics/peptide bond|Peptide Bond]] :: A peptide bond is a covalent bond formed between the amino group of one amino acid and the carboxyl group of another, releasing a molecule of water (condensation reaction).
+* [[topics/peptide bond|Peptide bond]] :: Tags: proteins, biochemistry, amino-acids, structure, Chapter 3
 * [[topics/plasmid|Plasmid]] :: A plasmid is a small, circular DNA molecule that exists independently of the bacterial chromosome.
 * [[topics/proteins|Proteins]] :: Proteins are large biomolecules composed of amino acids.
+
+== T ==
+* [[topics/Taxonomy|Taxonomy]] :: Tags: Chapter 10
+* [[topics/transduction|Transduction]] :: - DNA transferred between bacteria via bacteriophage  
+* [[topics/transposon|Transposon]] :: Jumping DNA  
 

@@ -7,12 +7,12 @@ description: Glossary term metadata configuration
 
 terms:
 
-  # === Chapter 3 Terms ===
-  Peptide Bond:
-    chapter: 3
+  # === Chapter 10 Terms ===
+  David Bergey:
+    chapter: 10
     exam_importance: medium
     study_importance: medium
-    tags: ['proteins', 'biochemistry', 'amino-acids', 'structure', 'Chapter 3']
+    tags: ['Chapter 10']
     notes: ''
 
   # === Chapter 4 Terms ===
@@ -32,6 +32,12 @@ terms:
     notes: ''
 
   # === Unassigned Terms ===
+  Peptide bond:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
   Plasmid:
     chapter: null
     exam_importance: medium

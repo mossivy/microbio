@@ -1,0 +1,256 @@
+Exam I- Study guide
+These are not the test questions, but they will allow you to see how well you understand the
+material. Remember, you are responsible for all of the material in the chapter that we had
+lecture in the classroom.
+Ch1- Human sand Microbial World
+Name the three domains in the classification of living organisms.
+a. Which domain/s have prokaryotic cells?
+b. Which domain/s have Eukaryotic cells?
+c. Which organelles does a prokaryotic cell have?
+Which domain do fungi, protozoa, and helminths belong to? What is the characteristic of
+each of these?
+What is a virus made of?
+Explain the theory of spontaneous generation. Who is given credit for disproving it and how
+did how he do it?
+Name the scientist who:
+a. Is given credit for first observing microorganisms under the microscope.
+b. Using phenol as a disinfectant.
+c. Emphasized handwashing as a way to reduce the number of cases of puerperal fever
+(Childbed fever).
+d. Heated wine to around 60 degrees to reduce microorganism growth.
+e. Developed postulates to prove a causative agent of a disease.
+f. Is given credit for discovering penicillin.
+g. Developed a smallpox vaccination.
+How large are bacteria typically?
+How large are viruses?
+What is a micrometer?
+Explain the four steps of gram stain:
+a.
+b.
+c.
+d.
+What is the basis for the difference in staining (gram positive and gram negative)?
+Name the different shapes that bacteria can have:
+a.
+b.
+c.
+What is a vibrio?
+Are spirochetes and spirilla the same?
+Which has better resolving power: an electron microscope or light microscope?
+Ch2-Chemistry
+Does water contain polar or nonpolar bonds?
+Which compounds dissolve in water?
+What happens in Hydrolysis reactions?
+What happens in dehydration reactions?
+Name 4 major groups of organic molecules. What does organic mean?
+a.
+b.
+c.
+d.
+Name the major function of carbohydrates.
+Do Carbohydrates dissolve in water?
+What is a simple sugar? Give an example.
+What is a disaccharide? Give an example.
+What is a polysaccharide? Give an example.
+How are monosaccharides combined to make polysaccharides?
+How are polysaccharide broken down?
+Name the major function of fat.
+Do fats dissolve in water?
+What are the two parts of triglyceride?
+a.
+b.
+Are the fatty acid chains polar or nonpolar?
+Name the major functions of proteins.
+What is the monomer of proteins?
+How are amino acids linked together?
+Approximately how many different amino acids are there?
+What is meant by primary structure of a protein?
+What is meant by tertiary structure of a protein?
+What is meant by quaternary structure of a protein?
+What is denaturation and how does that affect protein function?
+What are enzymes?
+Name two major nucleic acids:
+a.
+b.
+What are the binding blocks of nucleic acids?
+a.
+b.
+Chap3- Microscopy and Cell Structure
+how do prokaryotic cells compare in size to eukaryotic cells?
+Can you draw the following morphologies?
+a. Streptobacilli
+b. streptococci
+c. diplococci
+d. staphylococci
+e. vibrio
+f. what does pleomorphic mean?
+Name the three components of the cell envelope of a prokaryotic cell:
+a.
+b.
+c.
+Name 4 external structures of the prokaryotic cell:
+a.
+b.
+c.
+d.
+What are pili?
+What is the purpose of conjugation pili?
+What is the purpose of fimbriae?
+What is the glycocalyx?
+What is a capsule? What is its function?
+What is a slime layer? What is its function?
+Can you diagram the following types of bacteria?
+a. Amphitrichous
+b. Monotrichous
+c. Lophotrichous
+d. Peritrichous
+What is the cell membrane of a prokaryotic cell made of? What is its function?
+What is the cell wall of prokaryotic cells made of?
+What is the function of the prokaryotic cell wall? Explain in your own words.
+diagram the difference between gram positive and gram-negative cell walls.
+Which bacteria have lipopolysaccharide layer:
+What is lipopolysaccharide?
+What is the significance of lipid A?
+What is an endotoxin?
+What do endotoxins do in the body when released in large number?
+Which bacteria have Teichoic acid?
+Name two antibacterial that work by destroying peptidoglycan.
+Do Archaea have peptide glycan in the cell wall?
+How do Eukaryotic ribosomes and prokaryotic ribosomes differ?
+Which are 70S? what are the subunits?
+Which are 80S? what are the subunits?
+what is the function of ribosomes?
+How does a nucleus differ from a nucleoid?
+What is a plasmid?
+What is an inclusion?
+What is an endospore?
+Explain the process of sporulation in your own words.
+What is it called when the endospores disappear, and the bacterial cell grow again?
+Name the two genera that create endospores.
+Ch4- Growth of Bacteria
+Can you define the following terms?
+a. Colony
+b. Heterotrophic
+c. Autotrophic
+d. Fastidious
+e. Obligate aerobe
+f. Obligate anaerobe
+g. Facultative anaerobe
+h. Acidophile
+i. Alkaliphile
+j. Psychrophile
+k. Mesophile
+l. Thermophile
+m. Barophile
+n. Halophile
+o. Pure culture
+Can you explain the differences in each of these types of media?
+Selective media
+Differentia media
+How would obligate aerobe and facultative anaerobe show different growth in nutrient broth?
+Why would each of the following be necessary for bacteria?
+a. Nitrogen
+b. Sulfur
+c. Phosphorus
+d. Vitamins
+explain the process of binary fission.
+What is generation time?
+What does it mean if bacteria have aa generation time of 30 minutes?
+What happens during the lag phase of growth?
+What happens during the exponential phase of growth?
+What happens during the death phase of growth?
+Are bacteria increasing in number during the stationary phase? Why or why not?
+Write out the reaction catalyzed by the enzyme, superoxide dismutase?
+Why is this an important enzyme?
+Write out the reaction catalyzed by the enzyme, Catalase?
+Why be catalase not made by obligate anaerobes?
+What is the purpose of streak plate?
+Ch5- Controlling growth of microorganisms
+Define sepsis. What is its importance?
+What is contamination?
+What is the difference between “sterile and disinfected”?
+What is the difference between “antiseptic and disinfectant”?
+What is the difference between “bacteriocidal and bacteriostatic”?
+What are the three mechanisms of action of disinfectants against microorganisms?
+Physical methods:
+Heat
+• Why is moist heat advantageous over dry heat?
+• Can boiling completely sterilize a liquid?
+• Describe the conditions in an autoclave.
+• What types of microorganisms would you want to eliminate from milk?
+Cold
+• Is refrigeration/ freezing/ drying(dessication) kill bacteria? Explain?
+• lyophilization?
+Radiation:
+• Nonionizing radiation: UV light
+• Ionizing radiation:
+Filtration:
+Osmotic pressure: salting
+Chemical methods:
+• Phenol
+• Alcohol
+Halogens:
+• Chlorine(water)
+• iodine
+• Bromine (water)
+• Fluorine (water)
+oxidizers:
+Ozone: (water)
+Surfactants:
+• Soap
+• quats
+metals:
+• mercury
+• siver nitrate: to prevent gonorrhea
+• copper
+• zinc
+alkylating agents (aldehydes):
+• formaldehyde
+• glutaraldehyde
+gaseous agents
+• Ethylene oxide (ETO)
+Organic acids: foods
+• sorbic acid
+Ch6- Metabolism
+What is cellular respiration?
+Do bacteria need vitamins? Why?
+Do bacteria breakdown glucose to get ATP?
+What does heterotrophic mean?
+What is the role of niacin in metabolism?
+Where are endoenzymes made? Where do they work? Can you give an example?
+What is the role of riboflavin in metabolism?
+Would you expect obligate anaerobes to undergo cellular respiration with oxygen? Why or why
+not?
+What happens during glycolysis?
+Write out the basic reaction here:
+Is ATP made?
+Is NADH made? Why is that important?
+Does this reaction require oxygen?
+Where in the cell does this reaction occur?
+What happens during fermentation? Is ATP made during this last step of fermentation?
+Is NADH made during this last step of fermentation?
+So, what is the n et yield of glycolysis +fermentation?
+Do these reactions require oxygen?
+Name three organic products that could be produced during fermentation.
+Name the two processes that occur in anaerobic metabolism.
+When oxygen is present, what happens to the pyruvic acid produced in glycolysis?
+Where do the reactions of the krebs cycle occur in eukaryotes?
+Where do the reactions of the krebs cycle occur in prokaryotes?
+What are the products of the krebs cycle?
+What happens in the electron transport chain? Diagram here?
+Where does this occur in eukaryotes? In prokaryotes?
+What are the products?
+How many ATP are made in the electron transport chain from 1 NADH?
+How many ATP are made in the electron transport chain from 1 FADH2?
+Is oxygen required for the electron transport chain? Where?
+What is the final electron acceptor in electron transport chain?
+Do all prokaryotes use oxygen as the ultimate electron acceptor in the electron transport chain?
+Give an example?
+How can fats and proteins be used to make ATP?
+Why do fats generate more ATP than glucose?
+Which element would an amino acid have to lose to become a krebs cycle intermediate?
+Write out the reaction for photosynthesis?
+Explain how this is the opposite of cellular respiration?
+How does this link plants and animals in the circle of life?
+What are the products of photosynthesis?
+What are the products of cellular respiration?
