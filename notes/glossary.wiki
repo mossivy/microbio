@@ -1,27 +1,53 @@
 = Glossary =
 
+== A ==
+* [[topics/antibody|Antibody]] :: No description yet.
+* [[topics/antigen|Antigen]] :: - [[antibody]]
+
 == C ==
 * [[topics/conjugation|Conjugation]] :: - Plasmids: contains F plasmid → F+; does not contain → F-  
 
 == D ==
-* [[topics/David Bergey|David Bergey]] :: Tags: Chapter 10
+* [[topics/David Bergey|David Bergey]] :: - description for all 'known species'  
 
 == E ==
 * [[topics/enzymes|Enzymes]] :: Tags: biochemistry, catalysis, proteins, metabolism, 
 
 == H ==
 * [[topics/Histones|Histones]] :: Tags: Chapter 10, Eukaryotes
+* [[topics/horizontal_gene_transfer|Horizontal_gene_transfer]] :: DNA from one bacteria to another:  
 
 == L ==
-* [[topics/lysogenic cycle|Lysogenic cycle]] :: Tags: Ch. 8
+* [[topics/lysogenic_cycle|Lysogenic_cycle]] :: The lysogenic cycle is a method of viral reproduction where a bacteriophage integrates its DNA into the host bacterium's genome, 
+* [[topics/lytic_cycle|Lytic_cycle]] :: The lytic cycle is often separated into six stages: attachment, penetration, transcription, biosynthesis, maturation, and lysis.
+
+== M ==
+* [[topics/mycosis|Mycosis]] :: disease caused by fungus
 
 == P ==
-* [[topics/peptide bond|Peptide bond]] :: Tags: proteins, biochemistry, amino-acids, structure, Chapter 3
+* [[topics/pcr|Pcr]] :: No description yet.
+* [[topics/peptide_bond|Peptide_bond]] :: A peptide bond is a covalent bond formed between the amino group of one amino acid and the carboxyl group of another, releasing a molecule of water (condensation reaction).
 * [[topics/plasmid|Plasmid]] :: A plasmid is a small, circular DNA molecule that exists independently of the bacterial chromosome.
+* [[topics/plasmodia|Plasmodia]] :: parasitic protists that can cause maleria
 * [[topics/proteins|Proteins]] :: Proteins are large biomolecules composed of amino acids.
+* [[topics/protists|Protists]] :: Usually single-celled eukaryotes that are not fungi, plants, or animals.
+
+== R ==
+* [[topics/ribosome|Ribosome]] :: made of protein + [[rna|RNA]]
+* [[topics/ringworm|Ringworm]] :: Is Nematode
+* [[topics/rna|Rna]] :: Contains U, A, G, C
+
+== S ==
+* [[topics/serotype|Serotype]] :: Tags: Ch. 10
+* [[topics/serovar|Serovar]] :: Tags: Ch. 10
+* [[topics/shizogony|Shizogony]] :: multiple asexual fission
 
 == T ==
-* [[topics/Taxonomy|Taxonomy]] :: Tags: Chapter 10
+* [[topics/Taxonomy|Taxonomy]] :: The science of characterizing
 * [[topics/transduction|Transduction]] :: - DNA transferred between bacteria via bacteriophage  
+* [[topics/transformation|Transformation]] :: bacteria die and DNA absorbed by living bacteria  
 * [[topics/transposon|Transposon]] :: Jumping DNA:  
+
+== V ==
+* [[topics/vertical_gene_transfer|Vertical_gene_transfer]] :: DNA passed from one bacteria generation to the Next
 

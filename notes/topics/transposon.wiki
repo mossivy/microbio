@@ -1,6 +1,9 @@
 == Transposon ==
+
 Jumping DNA:  
   - Small segments of DNA that move from one region of a DNA molecule to another  
   - Can inactivate genes  
   - Causes mutations  
   - Can be transferred in plasmids
+
+Tags: Ch. 8

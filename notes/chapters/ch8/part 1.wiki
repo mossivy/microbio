@@ -6,12 +6,15 @@
   * [[../../topics/plasmid|Plasmid]]: DNA that replicates independently of chromosome
   * [[../../topics/transduction|Transduction]]
   * [[../../topics/conjugation|Conjugation]]
-  * Transformation
+  * [[../../topics/transformation|Transformation]]
   * [[../../topics/transposon|Transposon]]
 
 == Gene Changes in Bacteria ==
 
-=== Horizontal Gene Transfer ===
+=== [[../../topics/vertical_gene_transfer|Vertical Gene Transfer]] ===
+DNA passed from one bacteria generation to the Next
+
+=== [[../../topics/horizontal_gene_transfer|Horizontal Gene Transfer]] ===
 DNA from one bacteria to another:  
   1. Transformation: bacteria die and DNA absorbed by living bacteria  
   2. Conjugation: [[../../topics/plasmid|plasmid]] transfers to other bacteria  
@@ -20,7 +23,7 @@ DNA from one bacteria to another:
 == Transduction ==
   - DNA transferred between bacteria via bacteriophage  
   - [[../../topics/lysogenic cycle|Lysogenic cycle]]: virus DNA incorporated into the bacteria's own DNA  
-  - Lytic cycle: virus created inside bacteria and then bursts out
+  - [[../../topics/lytic_cycle|Lytic cycle]]: virus created inside bacteria and then bursts out
 
 == Conjugation ==
   - Plasmids: contains F plasmid → F+; does not contain → F-  

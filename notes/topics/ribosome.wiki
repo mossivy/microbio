@@ -1,0 +1,5 @@
+= Ribosome =
+
+made of protein + [[rna|RNA]]
+
+16SrRNA - Used for relatedness in organisms

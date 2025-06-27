@@ -1,0 +1,4 @@
+= RNA = 
+
+Contains U, A, G, C
+*NOT T*

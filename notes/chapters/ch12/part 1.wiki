@@ -1,0 +1,125 @@
+= Eukaryote =
+       |
+       |ingdom 
+       |
+            __ fungi 
+          / 
+eukaryote ---- protista
+           \            
+            -- animalia 
+
+
+*Vector* organisms that transmits other organisms(parasites)
+Viruse:s: yellow fever
+Bacteria: Borrelia burgdorfer
+
+=== Protozoa ===
+IE: Plasmodium
+
+    unicellular
+    no cell wall
+    motile via cilia flagella or pseudopods
+        - EXCEPT apicomplexans
+        - Flagella
+            - w/ mitochondria
+            - w/o mitochondria
+     
+    organelles & vacules
+    reproduction: budding, fission 
+    trophozite(active) & cysts(resistant and dormant)
+    complex lifestyle: sexual, asexual, binary fission, multiple fission ( [[../../topics/shizogony|shizogony]] )
+
+    Distribution
+        moist environment: ponds, streams, lakes, oceans
+        very few are pathogens
+
+    Giardia lamblia --> Giardiasis -->  diarrhea
+        flagella, unicellular
+        - fecal-oral transmission: contaminated water
+        - cysts present in feces
+        - greasy diarrhea due to fat interference
+ 
+    *Trichomonas* vaginalis --> Trichomoniasis
+        - trophozite
+        - most infection in *women*; woman symptomatic, men asymptomatic
+     
+     Toxoplasma gondii --> Toxoplasmosis
+        transmission
+            - eating uncooked meat
+            - ingestion of cat feces
+        healthy: no or mild symptoms
+        problematic:
+            - immunocomprimised
+            - pregnant woman: congenital birth defects
+    *Trypanosoma* brucei --> Trypanosomiasis
+        - African Sleeping Sickness
+        - spread fly bite
+        - infects central nervous system
+        - triggers immune system
+        - flagellated
+    
+    Entamoeba histolytica --> *Amebiasis* 
+        only pathogenic amoeba found in human intestines ( GI system)
+        bloody diarrhea
+
+    Plasmodium vivac --> *Maleria*
+       vector mosquito & blood transfer
+       live in red blood cell
+       
+    Balantidium Coli
+        GI System
+        bloody diarrhea
+        only cilliated protist that is pathogenic in humans
+        
+=== Fungi ===
+Mycologist study fungi
+heterotrophic
+Cell Wall: Chitin, polysaccarchide
+Mold & Yeast
+    1. mold: aerobic
+    2. yeast: faculative anaerobes
+prefer to live in pH of 5.0
+thallus: non-reproductive structure
+fruting body: reproductive stucture    
+    Yeast
+        Budding -- form of mitosis
+
+[[../../topics/mycosis|Mycosis]]
+    * Superficial
+        * IE: Jock Itch, Athlete's foot, [[../../topics/ringworm|Ringworm]]
+        * Keratinase - breaks down keratin
+    * Subcutaneous
+        * Sporotrichosis 
+    * Systematic
+        * *Pneumocystosis* (pneumonia)
+            * mostly seen in AIDS patients   
+        * *Cryptococcus*
+            * effects nervous system 
+            * mostly AIDS patients opportunistic meningitis 
+    
+    Systemic Mycoses: mainly effect immunocomprimised 
+    
+    Candidiasis: Opprotunistic
+        mouth, digestive tract, vagina
+        white plaque in mouth (*Thrush*), diaper rash, vaginitis
+        suseptable: certain immunocomprimised & antibiotic overdoes
+=== Helminth ===
+Multicellular
+Eukaryote
+Systems (nervous, digestive, respiratory, etc.)
+Complex system
+    * Nematodes (Roundworm)
+        * pinworm *Enterobius*
+            * most common nematode in USA 
+        * Trichinellosis
+            * undercooked pork 
+        * Elephantiasis -- Lymphatic filiariasis
+            * mosquito
+    * Platyhelminthes Flatworm 
+        * Trematode fluke
+            * Schistosomiasis
+                * blood vessel
+            * trematode 
+        * tapeworm *Cestodes*
+            * trasmitted via undercooked food... live in GI
+            * Taenia

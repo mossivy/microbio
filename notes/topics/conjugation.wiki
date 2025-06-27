@@ -3,3 +3,4 @@
   - In *E. coli*, F plasmid encodes proteins required for conjugation including sex pilus
     - Donor F+ can transfer DNA to F-
 
+Tags: Ch. 8

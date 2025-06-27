@@ -4,6 +4,6 @@ The lysogenic cycle is a method of viral reproduction where a bacteriophage inte
 forming a dormant state called a prophage. This allows the virus to replicate along with the host cell without immediately destroying it
 
 == See also ==
-- [[lytic cycle]] 
+- [[lytic_cycle]] 
    
 Tags: Ch. 8

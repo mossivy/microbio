@@ -14,6 +14,56 @@ terms:
     study_importance: medium
     tags: ['Chapter 10']
     notes: ''
+  Histones:
+    chapter: 10
+    exam_importance: medium
+    study_importance: medium
+    tags: ['Chapter 10', 'Eukaryotes']
+    notes: ''
+  Serotype:
+    chapter: 10
+    exam_importance: medium
+    study_importance: medium
+    tags: ['Ch. 10']
+    notes: ''
+  Serovar:
+    chapter: 10
+    exam_importance: medium
+    study_importance: medium
+    tags: ['Ch. 10']
+    notes: ''
+  Taxonomy:
+    chapter: 10
+    exam_importance: medium
+    study_importance: medium
+    tags: ['Chapter 10']
+    notes: ''
+
+  # === Chapter 12 Terms ===
+  Mycosis:
+    chapter: 12
+    exam_importance: medium
+    study_importance: medium
+    tags: ['Ch. 12', 'fungi']
+    notes: ''
+  Plasmodia:
+    chapter: 12
+    exam_importance: medium
+    study_importance: medium
+    tags: ['Ch. 12']
+    notes: ''
+  Protists:
+    chapter: 12
+    exam_importance: medium
+    study_importance: medium
+    tags: ['Ch. 12']
+    notes: ''
+  Ringworm:
+    chapter: 12
+    exam_importance: medium
+    study_importance: medium
+    tags: ['Ch. 12']
+    notes: ''
 
   # === Chapter 4 Terms ===
   Enzymes:
@@ -24,21 +74,93 @@ terms:
     notes: ''
 
   # === Chapter 8 Terms ===
+  Plasmid:
+    chapter: 8
+    exam_importance: medium
+    study_importance: medium
+    tags: ['Ch. 8']
+    notes: ''
   Proteins:
     chapter: 8
     exam_importance: medium
     study_importance: medium
     tags: []
     notes: ''
+  Transduction:
+    chapter: 8
+    exam_importance: medium
+    study_importance: medium
+    tags: ['Ch. 8']
+    notes: ''
 
   # === Unassigned Terms ===
-  Peptide bond:
+  Antibody:
     chapter: null
     exam_importance: medium
     study_importance: medium
     tags: []
     notes: ''
-  Plasmid:
+  Antigen:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+  Conjugation:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+  Horizontal_gene_transfer:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+  Lysogenic_cycle:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+  Lytic_cycle:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+  Pcr:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+  Peptide_bond:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+  Ribosome:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+  Rna:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+  Shizogony:
+    chapter: null
+    exam_importance: medium
+    study_importance: medium
+    tags: []
+    notes: ''
+  Transposon:
     chapter: null
     exam_importance: medium
     study_importance: medium

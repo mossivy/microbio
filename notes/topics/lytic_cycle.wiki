@@ -9,4 +9,6 @@ The lytic cycle is often separated into six stages: attachment, penetration, tra
     Lysis - cell wall or membrane ruptures, disintegrating it and releasing the virus in the process
 
 == See also ==
-- [[lysogenic cycle]]
+- [[lysogenic_cycle]]
+
+Tags: Ch. 8

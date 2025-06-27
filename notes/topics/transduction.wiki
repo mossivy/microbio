@@ -1,5 +1,6 @@
 == Transduction ==
   - DNA transferred between bacteria via bacteriophage  
-  - *Lysogenic* cycle: virus DNA incorporated into the bacteria's own DNA  
+  - Lysogenic cycle: virus DNA incorporated into the bacteria's own DNA  
   - *Lytic* cycle: virus created inside bacteria and then bursts out
 
+Tags: Ch. 8

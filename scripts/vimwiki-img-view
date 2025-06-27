@@ -1,0 +1,31 @@
+#!/bin/bash
+# vimwiki-img-view: preview images inline with viu, waits for keypress before exiting
+
+img_path="$1"
+
+if [[ -z "$img_path" ]]; then
+  echo "Usage: $0 /path/to/image"
+  exit 1
+fi
+
+if [[ ! -f "$img_path" ]]; then
+  echo "Error: File not found: $img_path"
+  exit 2
+fi
+
+# Detect terminal support for Kitty graphics protocol or WezTerm
+if [[ "$TERM" == *"kitty"* || "$TERM" == *"wezterm"* ]]; then
+  viu "$img_path"
+else
+  # fallback to ascii preview with chafa if installed, otherwise just print path
+  if command -v chafa >/dev/null 2>&1; then
+    chafa --symbols braille --fill=block "$img_path"
+  else
+    echo "Image preview not supported in this terminal."
+    echo "File path: $img_path"
+  fi
+fi
+
+echo
+read -n1 -rsp $'Press any key to return to Vim...\n'
+

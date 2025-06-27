@@ -9,6 +9,5 @@ It links amino acids together in proteins, forming the protein’s backbone.
 
 == See also ==
 - [[proteins|Proteins]]
-- [[../glossary|Glossary]]
 
-Tags: proteins, biochemistry, amino-acids, structure, Chapter 3
+Tags: proteins, amino-acids, structure, Chapter 3

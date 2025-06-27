@@ -1,5 +1,0 @@
-= Proteins = 
-
-large biomolecules and macromolecules that comprise one or more long chains of amino acid residues.
-perform a vast array of functions within organisms, including catalysing metabolic reactions, DNA replication, 
-responding to stimuli, providing structure to cells and organisms, and transporting molecules from one location to another. 

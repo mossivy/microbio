@@ -1,6 +1,6 @@
 = Plasmid =
 
-A plasmid is a small, circular DNA molecule that exists independently of the bacterial chromosome.
+A plasmid is a small, circular DNA molecule that replicates independently of the bacterial chromosome.
 
 == Key Features ==
 - Capable of autonomous replication

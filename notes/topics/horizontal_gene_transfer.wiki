@@ -1,0 +1,7 @@
+=== Horizontal Gene Transfer ===
+DNA from one bacteria to another:  
+  1. Transformation: bacteria die and DNA absorbed by living bacteria  
+  2. Conjugation: [[plasmid]] transfers to other bacteria  
+  3. Transduction: DNA is transferred by virus
+
+Tags: Ch. 8

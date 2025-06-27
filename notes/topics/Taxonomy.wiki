@@ -1,7 +1,7 @@
 = Taxonomy = 
 
-Tags: Chapter 10
-
 The science of characterizing
 organisms in order to arrange them
 into hierarchical groups (taxa)
+
+Tags: Chapter 10

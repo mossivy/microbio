@@ -71,3 +71,41 @@ Phenotypic Characteristics
 === Antibiotic Resistance ===
 - Antibiograms reveal differences in susceptibility to antimicrobial medicines
 
+== Serological Test ==
+- Detection of Specific proteins ([[../../topics/antigen|Antigen]]) on surface using [[../../topics/antibody|antibody]] 
+
+=== Strain Differences ===
+- Biochemical Typing
+    - Group via characteristic pattern: biovar, or biotype   
+- Serological Typing
+    - group via antigens: [[../../topics/serovar|serovar]], or [[../../topics/serotype|serotype]] 
+- Molecular Typing
+    - cut dna sample with same restriction enyzme -- seperate w/ gel electrophoresis
+    - patterns called *restriction fragment length polymorphism (RFLPs)* -- differing RFLPs = differing strains
+    - can *DNA fingerprint* with this method
+        - DNA sample -> Cut w/ Enzyme -> Fragment of DNA
+    If the enzyme makes same number of DNA cut segments and they are the same size
+    then they are the same/similar
+    
+=== Phylogeny ===
+- Methods to determine relatedness of organisms
+1. Genotypic Characteristics
+2. Sequence analysis of ribosomal components
+    The 70S ribosome of prokaryotes is composed
+    of three types of rRNA (5S, 16S, and 23S) and
+    an assortment of different ribosomal proteins
+4. DNA hybridization
+    determine genetic similarities between pools of DNA
+    used for genetic distance
+    - two species of bacterias DNA is heated up and then combined
+    - if the dna strands binds well and there is similarity
+5. G + C content
+    does not guarentee relatedness but good litmus
+    (G+C/A+T+G+T) * 100
+    if <10% they are pretty related
+6. Phage susceptibility
+    how susceptible bactera is to phage infection
+
+=== PCR ===
+Can create billions of copies of DNA via [[../../topics/pcr|PCR]]
+

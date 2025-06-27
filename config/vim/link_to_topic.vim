@@ -2,6 +2,8 @@ xnoremap <leader>[ s[[<C-r>"]]<Esc>
 xnoremap <leader>lt :<C-u>call LinkToTopic(GetVisualSelection())<CR>
 nnoremap <leader>lt :call LinkToTopic()<CR>
 xnoremap <leader>et :<C-u>call ExtractToTopic()<CR>
+nnoremap <leader>p :w<CR>:!./scripts/vimwiki-img-view %:p:h/<cfile><CR>
+
 
 function! LinkToTopic(...)
   " Check if we got text as an argument (from visual mode)
@@ -42,6 +44,10 @@ function! LinkToTopic(...)
   let l:filename = substitute(l:filename, '^\\s\\+', '', '')
   let l:filename = substitute(l:filename, '\\s\\+$', '', '')
 
+  " 5. Replace spaces with underscores
+  let l:filename = substitute(l:filename, ' ', '_', 'g')
+
+  
   " Handle edge case where filename might be empty after cleaning
   if empty(l:filename)
     echohl WarningMsg | echo "❌ Filename is empty after normalization." | echohl None

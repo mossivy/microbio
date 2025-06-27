@@ -2,10 +2,6 @@
 
 A personalized, terminal-based study environment to conquer BIOL2260.
 
-
-## Nextcloud linkage
----
-
 ## Core Tools
 
 This suite leverages powerful command-line tools:
@@ -15,37 +11,33 @@ This suite leverages powerful command-line tools:
 - **nerdtree:** For file system navigation within Vim.
 - **fzf:** For fuzzy finding files and notes.
 - **flashcard-cli:** For active recall with simple text files.
-- **jp2a:** To view images as ASCII art in the terminal.
 - **asciiflow:** For creating ASCII diagrams.
+- **viu + kitty**: For viewing images in the terminal
 
 ---
 
 # SCRIPT USAGE
 
-#Glossary Setup add to .vimrc so :UpdateGlossary can be run
+# Glossary Setup add to .vimrc so :UpdateGlossary can be run
 command! UpdateGlossary :!bash /PATH/scripts/update_glossary.sh
 
-#In Vim:    :source ~/.vimrc
+# In Vim:    :source ~/.vimrc
 source ~/PATH/config/vim/link_to_topic.vim
-#For autolinking to glossary add this to .vimrc and then reload
+# For autolinking to glossary add this to .vimrc and then reload
 usage: <leader>lt
-#For selecting == subsection == and creating glossary term
+# For selecting == subsection == and creating glossary term
 usage: <leader>et
+# For surrounding visual section with [ [ ] ] for linking
+usage: <leader>[
 
 # Generate today's plan (assignments + reviews) 
-python study_suite.py --plan-file plans/microbiology.yaml
+python3 scripts/glossary_planner.py
 
-# Generate in vimwiki format
-python study_suite.py --plan-file plans/microbiology.yaml --wiki
+# Generate metadata for terms/topics in glossary
+python3 scripts/glossary_study_manager.py generate
 
-# Mark something as reviewed
-python study_suite.py --mark-reviewed identification_classification.wiki "Culture Characteristics"
 
-# Check review status
-python study_suite.py --status
----
-
-## Daily Workflow Example
+# Daily Workflow Example
 
 1.  **Start your session:** Open a terminal in the project directory.
 2.  **Generate your plan:** Run `study-wiki`. This will create a checklist in `vimwiki` for today and open it.
